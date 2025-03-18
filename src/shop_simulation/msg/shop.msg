@@ -1,0 +1,4 @@
+string product_name
+float32 price
+uint16 quantity
+string customer_name
